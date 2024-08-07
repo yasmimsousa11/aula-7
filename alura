@@ -1,0 +1,75 @@
+@@ -3,6 +3,7 @@ corpo {
+    fundo : preto;
+    margem :  0 px ;
+    família de fontes :  "Chakra Petch" , sem serifa;
+    margem inferior :  100 px ;
+}
+
+cabeçalho {
+@@ -32,10 +33,6 @@ p {
+    tamanho da fonte :  20 px ;
+}
+
+imagem {
+    altura :  200 px ;
+}
+
+. categoria-vídeos {
+    exibição : flex;
+    estouro-x : automático;
+@@ -45,4 +42,19 @@ imagem {
+. categoria {
+    preenchimento-esquerdo :  20 px ;
+    preenchimento-direito :  20 px ;
+    margem superior :  50 px ;
+}
+
+. categoria-vídeos  img {
+    opacidade :  0,5 ;
+    altura :  200 px ;
+}
+
+. categoria-videos  img : hover {
+    opacidade :  1,0 ;
+    borda :  3 px verde sólido;
+}
+
+. categoria  h2 {
+    cor :  rgb ( 42 ,  122 ,  228 );@@ -3,6 +3,7 @@ corpo {
+    fundo : preto;
+    margem :  0 px ;
+    família de fontes :  "Chakra Petch" , sem serifa;
+    margem inferior :  100 px ;
+}
+
+cabeçalho {
+@@ -32,10 +33,6 @@ p {
+    tamanho da fonte :  20 px ;
+}
+
+imagem {
+    altura :  200 px ;
+}
+
+. categoria-vídeos {
+    exibição : flex;
+    estouro-x : automático;
+@@ -45,4 +42,19 @@ imagem {
+. categoria {
+    preenchimento-esquerdo :  20 px ;
+    preenchimento-direito :  20 px ;
+    margem superior :  50 px ;
+}
+
+. categoria-vídeos  img {
+    opacidade :  0,5 ;
+    altura :  200 px ;
+}
+
+. categoria-videos  img : hover {
+    opacidade :  1,0 ;
+    borda :  3 px verde sólido;
+}
+
+. categoria  h2 {
+    cor :  rgb ( 42 ,  122 ,  228 );
